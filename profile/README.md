@@ -23,6 +23,6 @@ We will public some of the repositories after we finished the developing process
 ### :point_right:REQUIREMENTS:point_left:
 
 - Create new repositories without contacting the senior is not permitted,this will cause the repository have a 'entropy increase',if you don't know where to commit your program, please contact your corresponding senior of the organization.
-- Binary files should not be upload to github, which will cause your repository hard to manage. To avoid this, please make sure you have `.gitignore` file in your project before uploading your codes. Of course, you can manage large files with Git LFS.
+- Binary files should not be upload to github, which will cause your repository hard to manage. To avoid this, please make sure you have `.gitignore` file in your project before uploading your codes. 
 - Update your code if you have any changes, even if your code still have bugs to be fixed.
 - When update unstable codes and codes with error, please **do not** push your codes to the `master/main` branch. Push them to the `dev` branch instead.
